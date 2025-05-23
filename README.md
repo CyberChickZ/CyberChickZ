@@ -93,11 +93,7 @@ Upload photos, videos, and start cooking… or debugging.
 
 ## 🔮 Life Quest
 
-> Build an intelligent, real-time AI system that analyzes skiing techniques, generates personalized coaching feedback, and turns motion into insight — all without writing another CRUD API.
+> Build an intelligent, real-time AI system that analyzes skiing(actually genral sports) techniques, generates personalized coaching feedback, and turns motion into insight — all without writing another CRUD API.
 
 ---
 
-<!--
-CyberChickZ is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-If you're reading this, go build something weird and wonderful.
--->
