@@ -54,6 +54,11 @@ Includes data split, training loop, result plots, and regrets over wrong epochs.
 Five flower types. One noob. Many gradients.  
 My gentle intro to PyTorch that wasn't so gentle.
 
+### 🧠 Neural Signal Decoding (BCI Project @ CQUPT)  
+Assisted in a brain-computer interface project on EEG signal classification.  
+Main tasks: data preprocessing, neural signal parsing, and prototype coding support.  
+📝 Contributed to a published patent on EEG domain adaptation.
+
 ### 🎮 BattleRealm  
 Clash Royale-inspired multiplayer game with card + tower defense mechanics.  
 Learned: game loops, real-time strategy, and chaos.
