@@ -87,7 +87,12 @@ Upload photos, videos, and start cooking… or debugging.
 
 - 📨 Email: zhanhaoc@oregonstate.edu  
 - 🌐 LinkedIn: [linkedin.com/in/harryzhang34](https://www.linkedin.com/in/harryzhang34)  
-<!--- 🧠 Resume: [View PDF](#) -->
+
+---
+
+## 📄 Resume
+
+[🧠 Download My Resume (PDF)](./HarryZhang_Resume_05302025.pdf)
 
 ---
 
