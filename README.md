@@ -97,7 +97,7 @@ Upload photos, videos, and start cooking… or debugging.
 
 ## 📄 Resume
 
-[🧠 Download My Resume (PDF)](./Resume (9).pdf)
+[🧠 Download My Resume (PDF)](./Resume\ (9).pdf)
 
 ---
 
