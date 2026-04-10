@@ -11,7 +11,7 @@
 
 ### Haochuan (Harry) Zhang
 
-MEng in Computer Science @ Oregon State University (GPA 3.97)
+MS in Computer Science @ Oregon State University (GPA 3.97)
 
 I work on **physics-informed models for human body dynamics**, **3D human mesh recovery**, and **multimodal robotics perception**. Currently building [PhysMamba](https://github.com/CyberChickZ/sam-3d-body) — a Mamba3 SSM that learns articulated rigid-body dynamics from IsaacGym simulation, targeting sim-to-real transfer for humanoid control.
 
@@ -34,7 +34,6 @@ I work on **physics-informed models for human body dynamics**, **3D human mesh r
 
 **Publications**
 
-- **H. Zhang**, et al., *PhysMamba: Physics-Informed State Space Model for Human Body Dynamics Prediction*, in preparation
 - Y. Xie, J. Shang, Q. Yang, X. Qian, **H. Zhang**, X. Tang, *ARSA-UNet*, Biomedical Signal Processing and Control, Elsevier, 2025
 
-**Links** -- [LinkedIn](https://www.linkedin.com/in/harryzhang34) | [Google Scholar](https://scholar.google.com/citations?user=8oJPQmEAAAAJ) | hczhang34@gmail.com
+**Links** -- [LinkedIn](https://www.linkedin.com/in/harryzhang34) | hczhang34@gmail.com
