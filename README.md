@@ -1,109 +1,29 @@
-```markdown
-   _____      _                _____ _     _      _     ______
-  / ____|    | |              / ____| |   (_)    | |   |___  /
- | |    _   _| |__   ___ _ __| |    | |__  _  ___| | __   / / 
- | |   | | | | '_ \ / _ \ '__| |    | '_ \| |/ __| |/ /  / /  
- | |___| |_| | |_) |  __/ |  | |____| | | | | (__|   <  / /__ 
-  \_____\__, |_.__/ \___|_|   \_____|_| |_|_|\___|_|\_\/_____|
-         __/ |                                                
-        |___/                                                 
+### Hi, I'm Haochuan (Harry) Zhang
 
+MEng in Computer Science @ Oregon State University (GPA 3.97)
 
-⚔️  CYBERCHICKZ: Level 1 noob with legendary dreams                     
-            skiing through bugs | crashing into PyTorch                    
-
-🎿 Skiing through gradients, gliding into research papers... and sometimes walls.
-```
+I work on **physics-informed models for human body dynamics**, **3D human mesh recovery**, and **multimodal robotics perception**. Currently building [PhysMamba](https://github.com/CyberChickZ/sam-3d-body) — a Mamba3 SSM that learns articulated rigid-body dynamics from IsaacGym simulation, targeting sim-to-real transfer for humanoid control.
 
 ---
 
-## 🧠 About Me
+**Research**
 
-Hi! I'm **Haochuan (Harry) Zhang**, a Computer Science Master's student at Oregon State University (GPA 3.8)  
-with a passion for building AI systems that understand the physical world — especially in sports and motion.
+- **PhysMamba** — Mamba3 State Space Model for human body dynamics prediction; AMASS -> PHC -> IsaacGym 1024-env data pipeline; autoregressive rollout + action perturbation evaluation
+- **3D Human Mesh Recovery** — Benchmarking SAM 3D-Body, 4D-Humans, HMR2.0b on sports video; temporal aggregation for video-level reconstruction
+- **Multimodal Robotics Perception** — RGB/depth/LiDAR/radiation fusion for autonomous mapping @ University of Tokyo & JAEA (NEST-ARTERD)
 
-Previously:
-- 🧠 Brain-Computer Interface Research Intern @ CQUPT
-- 🏢 Software Developer @ Charter Spectrum
-- 📜 Contributor to 2 patents on neural signal processing
+**Projects**
 
-I'm currently on a **quest** to train an AI that teaches skiing better than most human instructors (or at least crashes more gracefully).
+- [sam-3d-body](https://github.com/CyberChickZ/sam-3d-body) — SAM 3D-Body + PhysMamba experiments
+- [patent-analyzer](https://github.com/CyberChickZ/patent-analyzer) — AI patent novelty analysis with 5-channel retrieval + sentence-transformer reranking
+- [kinetic-human-server](https://github.com/CyberChickZ/kinetic-human-server) — SAM 3D-Body inference API for tennis biomechanics
+- [amie-gcp](https://github.com/CyberChickZ/amie-gcp) — Multi-agent patent evaluation platform (LangGraph + Gemini)
+- [vision-research-interview](https://github.com/CyberChickZ/vision-research-interview) — CV/DL interview prep knowledge base
+- [daily-paper-scraper](https://github.com/CyberChickZ/daily-paper-scraper) — arXiv/HuggingFace daily paper tracker
 
----
+**Publications**
 
-## 🌱 Currently Learning
+- **H. Zhang**, et al., *PhysMamba: Physics-Informed State Space Model for Human Body Dynamics Prediction*, in preparation
+- Y. Xie, J. Shang, Q. Yang, X. Qian, **H. Zhang**, X. Tang, *ARSA-UNet*, Biomedical Signal Processing and Control, Elsevier, 2025
 
-- Building ResNet18 from scratch 🧱
-- Rewriting loss functions & optimizers (because why not reinvent the wheel?)
-- Vision + Motion + Language alignment with GCCA & PyTorch
-- How to train an AI to generate personalized abstract memes 🐣
-
----
-
-## 🛠️ Projects
-
-### 🧬 [MaxVar-GCCA Multiview Alignment](https://github.com/CyberChickZ/GCCA-Algorithm-Reading-Report)  
-TensorFlow-based implementation of GCCA, MaxVar-GCCA and AltMaxVar-GCCA  
-🔍 Used on PMI matrices, synthetic data, and animal vision/audio embeddings
-
-### 🐶 [Cat-Dog Classifier](https://github.com/CyberChickZ/cat-dog-classifier)  
-AlexNet-style CNN for pet image classification.  
-Includes data split, training loop, result plots, and regrets over wrong epochs.
-
-### 🌸 [Flower Classification](https://github.com/CyberChickZ/flower-classification)  
-Five flower types. One noob. Many gradients.  
-My gentle intro to PyTorch that wasn't so gentle.
-
-### 🧠 Neural Signal Decoding (BCI Project @ CQUPT)  
-Assisted in a brain-computer interface project on EEG signal classification.  
-Main tasks: data preprocessing, neural signal parsing, and prototype coding support.  
-📝 Contributed to a published patent on EEG domain adaptation.
-
-### 🎮 BattleRealm  
-Clash Royale-inspired multiplayer game with card + tower defense mechanics.  
-Learned: game loops, real-time strategy, and chaos.
-
-### 🍽️ TastyBytes  
-A recipe-sharing app using Angular + Node.js + AWS S3.  
-Upload photos, videos, and start cooking… or debugging.
-
----
-
-## 💬 Fun Facts
-
-- 🧊 Froze my Mac by feeding ResNet the wrong batch size. Twice.
-- 🧠 Interviewed CVPRW authors in academic writing class, pretended to know what a diffusion model is.
-- 🎿 Still skiing even after my OSU ski club idea was denied. Respect the grind.
-
----
-
-## 💻 Tech Stack
-
-**Languages**: Java | Python | C/C++ | JavaScript | TypeScript  
-**Frameworks**: Spring Boot | Angular | PyTorch | Node.js  
-**AI Tools**: Transformers | CNN | YOLO | GCCA | CUDA | OpenMP  
-**Cloud**: AWS S3 / EC2 / Lambda  
-**Tools**: Docker | Kubernetes | Redis | Kafka | Jenkins  
-**Databases**: MySQL | MongoDB | PostgreSQL | Oracle
-
----
-
-## 📫 Contact Me
-
-- 📨 Email: zhanhaoc@oregonstate.edu  
-- 🌐 LinkedIn: [linkedin.com/in/harryzhang34](https://www.linkedin.com/in/harryzhang34)  
-
----
-
-## 📄 Resume
-
-[🧠 Download My Resume (PDF)](./Resume20260328.pdf)
-
----
-
-## 🔮 Life Quest
-
-> Build an intelligent, real-time AI system that analyzes skiing(actually genral sports) techniques, generates personalized coaching feedback, and turns motion into insight — all without writing another CRUD API.
-
----
-
+**Links** -- [LinkedIn](https://www.linkedin.com/in/harryzhang34) | [Google Scholar](https://scholar.google.com/citations?user=8oJPQmEAAAAJ) | hczhang34@gmail.com
